@@ -5,4 +5,4 @@ Formação Python com aplicação em framework.
 ## titulo
 ### titulo
 
-[Conteudo para estudar] (www.google.com)
+[Conteudo para estudar](www.google.com).
