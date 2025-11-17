@@ -15,3 +15,8 @@ Formação Python com aplicação em framework.
 3. item
 
 > notas importantes
+
+|titulo|descricao|
+|---|---|
+|Python|Curso de 80h|
+|Framework|FlaskAPI|
