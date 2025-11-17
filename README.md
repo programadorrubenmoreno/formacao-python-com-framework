@@ -20,3 +20,5 @@ Formação Python com aplicação em framework.
 |---|---|
 |Python|Curso de 80h|
 |Framework|FlaskAPI|
+
+palavras em **destaque**
