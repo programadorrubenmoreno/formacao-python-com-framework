@@ -13,3 +13,5 @@ Formação Python com aplicação em framework.
 1. item
 2. item
 3. item
+
+> notas importantes
