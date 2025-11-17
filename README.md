@@ -22,3 +22,6 @@ Formação Python com aplicação em framework.
 |Framework|FlaskAPI|
 
 palavras em **destaque**
+
+https://www.markdownguide.org/
+
